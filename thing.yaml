@@ -1,4 +1,4 @@
 name: Thing
 keys:
-  - key1: value1
-  - key2: value2
+  key1: v1.0
+  key2: value2
